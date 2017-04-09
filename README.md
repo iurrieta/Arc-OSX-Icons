@@ -18,7 +18,7 @@ what makes Arc-OSX icon theme different from its original origins is the remix w
 
 ### Packages
 
-Ubuntu & Debian based distributions can now install the newly source code packages for easy installation of the theme collection.
+Distributions can now install the source code packages for easy installation of the icon theme collection the link is below.
 
 > [arc-osx-icon-theme](https://github.com/LinxGem33/Arc-OSX-Icons/releases)
 
