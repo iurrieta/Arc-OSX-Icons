@@ -6,9 +6,9 @@ Arc-OSX-P & Arc-OSX-D are two themes to accompany the OSX-Arc theme collection t
 
 ##
 
-### what makes Arc-OSX icon theme different?
+### Why use this icon pack?
 
-what makes Arc-OSX icon theme different from its original origins is the remix with the arc icon theme & the paper icon theme the two compliment each other and co exist perfectly this icon theme has been developed specifically to work in unison with the light and dark OSX-Arc gtk theme collection variants. 
+The reason behind this icon theme pack is to enable new users to easily install the preconfigured arc icon theme to look and feel consistent to how I intended OSX-Arc theme collection to look, having been asked a few times “how do I get my desktop looking like the screen shots?” I decided to remix and preconfigure this icon pack to enable new users to just extract it directly to their icons folder without have to configure the arc icon theme themselves and also it allowed me to pack all the recommended icon themes in one source.
 
 ##
 
@@ -50,6 +50,7 @@ or ~/.icons (create it (in your home folder) if necessary);
 3. Change via distribution specific tweak tool.
 
 ## 
+
 
 ### Bugs
 
