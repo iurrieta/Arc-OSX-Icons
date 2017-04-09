@@ -1,7 +1,5 @@
 # Arc-OSX-Icons
 
-##
-
 ### Introduction
 
 Arc-OSX-P & Arc-OSX-D are two themes to accompany the OSX-Arc theme collection they come in two variants Arc-OSX-D (dark theme) & Arc-OSX-P (light theme) they also include the paper theme as a dependency its been pre configured with the Arc theme to work in unison to give whole unique icon theme, the icon collection consists of a modern free desktop icon theme whose design is based around the use of bold colours and simple geometric shapes to compose icons with pixel perfect rendering. 
@@ -30,9 +28,9 @@ Ubuntu & Debian based distributions can now install the newly created Debian pac
 
 The package consists of four elements each element has been packaged to create a preconfigured icon theme pack,and the contents of this package can be seen listed below.
 
-> **Arc-OSX-P**
+> **Arc-OSX-P** (light icon theme)
 
-> **Arc-OSX-D**
+> **Arc-OSX-D** (dark icon theme)
 
 > **Paper** (dependency)
 
