@@ -43,4 +43,6 @@ Bugs should be reported [here](https://github.com/LinxGem33/Arc-OSX-Icons/issues
 
 ### License & Terms ![](https://github.com/LinxGem33/Arc-OSX-Icons/blob/master/COPYING)
 
-OSX-Arc Collection is available under the terms of the GPL-3.0 license See [`COPYING`](https://github.com/LinxGem33/OSX-Arc-White/blob/master/COPYING) for details.
+Arc-icon theme is available under the terms of the GPL-3.0 license See [`COPYING`](https://github.com/LinxGem33/Arc-OSX-Icons/blob/master/COPYING) for details.
+
+> "[Paper Icons](http://snwh.org/paper/icons)" by [Sam Hewitt](http://samuelhewitt.com/) is licensed under [CC-SA-4.0](http://creativecommons.org/licenses/by-sa/4.0/)
