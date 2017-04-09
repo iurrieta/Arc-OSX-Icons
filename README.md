@@ -8,7 +8,7 @@ Arc-OSX-P & Arc-OSX-D are two themes to accompany the OSX-Arc theme collection t
 
 ### Why use this icon pack?
 
-The reason behind this icon theme pack is to enable new users to easily install the preconfigured arc icon theme to look and feel consistent to how I intended OSX-Arc theme collection to look, having been asked a few times “how do I get my desktop looking like the screen shots?” I decided to remix and preconfigure this icon pack to enable new users to just extract it directly to their icons folder without have to configure the arc icon theme themselves and also it allowed me to pack all the recommended icon themes in one source.
+The reason behind this icon theme pack is to enable new users to easily install the preconfigured arc icon theme to look and feel consistent to how I intended OSX-Arc theme collection to look, having been asked a few times “how do I get my desktop looking like the screen shots?” I decided to remix and preconfigure this icon pack to enable new users to just extract it directly to their icons folder without having to configure the arc icon theme themselves and also it allowed me to pack all the recommended icon themes in one source.
 
 ##
 
