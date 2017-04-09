@@ -18,7 +18,7 @@ The reason behind this icon theme pack is to enable new users to easily install 
 
 ### Packages
 
-Distributions can now install the source code packages for easy installation of the icon theme collection the link is below.
+Distributions can now install the source code packages for easy installation of the icon theme collection the link to the releases page is below.
 
 > [arc-osx-icon-theme](https://github.com/LinxGem33/Arc-OSX-Icons/releases)
 
