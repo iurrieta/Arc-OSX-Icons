@@ -18,9 +18,9 @@ what makes Arc-OSX icon theme different from its original origins is the remix w
 
 ### Packages
 
-Ubuntu & Debian based distributions can now install the newly created Debian packages for easy installation of the theme collection, also all deb files have checksums MD5,SHA1 and SHA256 for file integrity links are below.
+Ubuntu & Debian based distributions can now install the newly source code packages for easy installation of the theme collection.
 
-> [arc-osx-icon-theme_1.0.0_all.deb](https://github.com/LinxGem33/Arc-OSX-Icons/releases)
+> [arc-osx-icon-theme](https://github.com/LinxGem33/Arc-OSX-Icons/releases)
 
 ##
 
