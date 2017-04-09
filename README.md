@@ -2,6 +2,10 @@
 
 Arc-OSX-P & Arc-OSX-D are two themes to accompany the OSX-Arc theme collection they come in two variants Arc-OSX-D (dark theme) & Arc-OSX-P (light theme) they also include the paper theme as a dependency its been pre configured with the Arc theme to work in unison to give whole unique icon theme, the icon collection consists of a modern free desktop icon theme whose design is based around the use of bold colours and simple geometric shapes to compose icons with pixel perfect rendering. 
 
+##
+
+### what makes Arc-OSX icon theme different?
+
 what makes Arc-OSX icon theme different from its original origins is the remix with the arc icon theme & the paper icon theme the two compliment each other and co exist perfectly this icon theme has been developed specifically to work in unison with the light and dark OSX-Arc gtk theme collection variants. 
 
 ##
