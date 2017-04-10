@@ -56,7 +56,7 @@ Installation via autotools:
     ./autogen.sh --prefix=/usr
     sudo make install
 
-Alternatively you may copy the `src` folder to `~/.icons` or to `/usr/share/icons` for system-wide use.
+Alternatively you may copy the contents of the `src` folder to `~/.icons` or to `/usr/share/icons` for system-wide use.
 
 ### Uninstall
 
