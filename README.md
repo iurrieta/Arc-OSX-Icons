@@ -50,7 +50,7 @@ or ~/.icons (create it (in your home folder) if necessary);
 3. Change via distribution specific tweak tool.
 
 ##
-Installation via autotools: 
+### Installation via autotools: 
 
     git clone https://github.com/LinxGem33/Arc-OSX-Icons --depth 1 && cd Arc-OSX-Icons
     ./autogen.sh --prefix=/usr
