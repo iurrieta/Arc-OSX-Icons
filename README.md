@@ -28,12 +28,12 @@ Distributions can now install the source code packages for easy installation of 
 
 The icon pack consists of four elements each element has been packaged to create a preconfigured theme pack,the contents of which can be seen listed below.
 
-| Icons  | use  |
+| Included Icons  | Icon feature  |
 |---|---|
-| > **Arc-OSX-P**  | light icon theme  |
-| > **Arc-OSX-D**  | dark icon theme    |
-| > **Paper**      | dependency |
-| > **Paper-Mono-Dark** | dependency |
+|  **Arc-OSX-P**  | light icon theme  |
+|  **Arc-OSX-D**  | dark icon theme    |
+|  **Paper**      | dependency |
+|  **Paper-Mono-Dark** | dependency |
 
 
 ##
