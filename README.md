@@ -49,8 +49,26 @@ or ~/.icons (create it (in your home folder) if necessary);
 
 3. Change via distribution specific tweak tool.
 
-## 
+##
+Installation via autotools:
 
+    git clone https://github.com/LinxGem33/Arc-OSX-Icons --depth 1 && cd arc-icon-theme
+    ./autogen.sh --prefix=/usr
+    sudo make install
+
+Alternatively you may copy the `src` folder to `~/.icons` or to `/usr/share/icons` for system-wide use.
+
+### Uninstall
+
+Run
+
+    sudo make uninstall
+
+from the same directory as this README resides in, or
+
+    sudo rm -rf /usr/share/icons/src
+
+## 
 
 ### Bugs
 
