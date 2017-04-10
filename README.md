@@ -28,13 +28,13 @@ Distributions can now install the source code packages for easy installation of 
 
 The icon pack consists of four elements each element has been packaged to create a preconfigured theme pack,the contents of which can be seen listed below.
 
-> **Arc-OSX-P** (light icon theme)
+| Icons  | use  |
+|---|---|
+| > **Arc-OSX-P**  | light icon theme  |
+| > **Arc-OSX-D**  | dark icon theme    |
+| > **Paper**      | dependency |
+| > **Paper-Mono-Dark** | dependency |
 
-> **Arc-OSX-D** (dark icon theme)
-
-> **Paper** (dependency)
-
-> **Paper-Mono-Dark** (dependency)
 
 ##
 
@@ -50,9 +50,9 @@ or ~/.icons (create it (in your home folder) if necessary);
 3. Change via distribution specific tweak tool.
 
 ##
-Installation via autotools:
+Installation via autotools: 
 
-    git clone https://github.com/LinxGem33/Arc-OSX-Icons --depth 1 && cd arc-icon-theme
+    git clone https://github.com/LinxGem33/Arc-OSX-Icons --depth 1 && cd Arc-OSX-Icons
     ./autogen.sh --prefix=/usr
     sudo make install
 
