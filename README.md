@@ -12,7 +12,7 @@ The reason behind this icon theme pack is to enable new users to easily install 
 
 ##
 
-![](https://github.com/LinxGem33/Arc-OSX-Icons/blob/master/arcscreen.png?raw=true)
+![](https://github.com/iurrieta/Arc-OSX-Icons/blob/master/arcscreen.png?raw=true)
 
 ##
 
@@ -20,7 +20,7 @@ The reason behind this icon theme pack is to enable new users to easily install 
 
 Distributions can now install the source code packages for easy installation of the icon theme collection the link to the releases page is below.
 
-> [arc-osx-icon-theme](https://github.com/LinxGem33/Arc-OSX-Icons/releases)
+> [arc-osx-icon-theme](https://github.com/iurrieta/Arc-OSX-Icons/releases)
 
 ##
 
@@ -52,7 +52,7 @@ or ~/.icons (create it (in your home folder) if necessary);
 ##
 ### Installation via autotools: 
 
-    git clone https://github.com/LinxGem33/Arc-OSX-Icons --depth 1 && cd Arc-OSX-Icons
+    git clone https://github.com/iurrieta/Arc-OSX-Icons --depth 1 && cd Arc-OSX-Icons
     ./autogen.sh --prefix=/usr
     sudo make install
 
@@ -72,12 +72,12 @@ from the same directory as this README resides in, or
 
 ### Bugs
 
-Bugs should be reported [here](https://github.com/LinxGem33/Arc-OSX-Icons/issues) on the Github issues page.
+Bugs should be reported [here](https://github.com/iurrieta/Arc-OSX-Icons/issues) on the Github issues page.
 
 ## 
 
-### License & Terms ![](https://github.com/LinxGem33/Arc-OSX-Icons/blob/master/COPYING)
+### License & Terms ![](https://github.com/iurrieta/Arc-OSX-Icons/blob/master/COPYING)
 
-Arc-icon theme is available under the terms of the GPL-3.0 license See [`COPYING`](https://github.com/LinxGem33/Arc-OSX-Icons/blob/master/COPYING) for details.
+Arc-icon theme is available under the terms of the GPL-3.0 license See [`COPYING`](https://github.com/iurrieta/Arc-OSX-Icons/blob/master/COPYING) for details.
 
 > "[Paper Icons](https://github.com/snwh/paper-icon-theme)" by [Sam Hewitt](http://samuelhewitt.com/) is licensed under [CC-SA-4.0](http://creativecommons.org/licenses/by-sa/4.0/)
